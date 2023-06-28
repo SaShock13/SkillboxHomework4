@@ -156,6 +156,9 @@ namespace SkillboxHomework4_3
         }
 
 
+        /// <summary>
+        /// С вероятностью 80% уничтожает целые строки бактерий
+        /// </summary>
         private void Pandemia()
         {
             Random generator = new Random();
